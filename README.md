@@ -1,7 +1,7 @@
 # Easy automatic setup
 Please download the following package and [watch this video](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Faudioinjector%2Fvideos%2F1753758851602240%2F) :
 
-https://github.com/Audio-Injector/Octo/raw/master/audioinjector.octo.setup_0.3_all.deb
+https://github.com/Audio-Injector/Octo/raw/master/audioinjector.octo.setup_0.4_all.deb
 
 NOTE : no need to extract the deb file any more, simply install it.
 
