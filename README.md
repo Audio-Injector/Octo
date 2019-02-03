@@ -1,13 +1,13 @@
 # Easy automatic setup
 Please download the following package and [watch this video](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Faudioinjector%2Fvideos%2F1753758851602240%2F) :
 
-https://github.com/Audio-Injector/Octo/raw/master/audioinjector.octo.setup_0.4_all.deb
+https://github.com/Audio-Injector/Octo/raw/master/audioinjector.octo.setup_0.5_all.deb
 
 NOTE : no need to extract the deb file any more, simply install it.
 
 Once you have downloaded the .deb file, type the following command to install the sound card :
 ```
-sudo dpkg -i Downloads/audioinjector.octo.setup_0.4_all.deb
+sudo dpkg -i Downloads/audioinjector.octo.setup_0.5_all.deb
 ```
 You will have to run this command from the terminal to make it work, because it requires user input to download the official latest Pi firmware.
 
