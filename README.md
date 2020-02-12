@@ -1,3 +1,6 @@
+
+Check the audio injector email list : https://lists.audioinjector.net/mailman/listinfo/people
+
 # Easy automatic setup
 Please download the following package and [watch this video](https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Faudioinjector%2Fvideos%2F1753758851602240%2F) :
 
