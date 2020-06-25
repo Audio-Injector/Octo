@@ -1,0 +1,16 @@
+[Unit]
+# https://github.com/Audio-Injector/Octo/issues/28
+Description=Audioinjector Ocro workaround for audio pops (due to stop/start DAPM subsystem)
+StartLimitIntervalSec=0
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=10
+User=root
+Environment=SAMPLING_RATE=44100
+Environment=SAMPLE_FORMAT=S24_LE
+ExecStart=aplay --rate ${SAMPLING_RATE} --format=${SAMPLE_FORMAT} -v /dev/zero
+
+[Install]
+WantedBy=multi-user.target
